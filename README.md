@@ -1,2 +1,2 @@
 # hello-world
-Start to program
+i like programming,i am a starter.
